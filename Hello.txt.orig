@@ -1,8 +1,17 @@
 Welcome to DevOps GITHUB class ! V1
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is change from desktop!
 EC2 Windows VM
 =======
 This is second version!
 Test
 >>>>>>> tempbranch
+=======
+<<<<<<< Updated upstream
+This is second version!
+=======
+
+This is third version!
+>>>>>>> Stashed changes
+>>>>>>> tempbranch1
