@@ -6,4 +6,5 @@ Test
 =======
 This is second version!
 This is third version!
+Branching
 >>>>>>> tempbranch1
