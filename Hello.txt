@@ -7,4 +7,5 @@ Test
 This is second version!
 This is third version!
 Branching
+This is new!
 >>>>>>> tempbranch1
